@@ -1,5 +1,3 @@
-
-
 ## Setup
 
 > Step 1
